@@ -1,6 +1,6 @@
 # Music-player
  Project description:
-In this project, an android music player application is developed. Planning to develop an online music player using ﬁrebase. Firebase is a real-time database provided by Google for mobile and web applications and it acts as Backend as services. Initially, songs are loaded to the ﬁrebase database and the user can download songs from the android application. Users must register for the application before accessing the application. All the user’s login credentials are maintained in the ﬁrebase database. A voice recorder is also included in the android application where the user can record voice
+In this project, an android music player application is developed. Planning to develop an online music player using ﬁrebase. Firebase is a real-time database provided by Google for mobile and web applications and it acts as Backend as services. Initially, songs are loaded to the ﬁrebase database and the user can listen songs from the android application. Users must register for the application before accessing the application. All the user’s login credentials are maintained in the ﬁrebase database. A voice recorder is also included in the android application where the user can record voice
 
 Target Audience:
 
