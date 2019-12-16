@@ -1,7 +1,7 @@
 # Music-player
 
 ### Introduction
-In this project, an android music player application is developed. Several functionalilites of simple music player application is developed like play/stop music, Next song, Previous song, Seek bar,Volumebar. This application also has firebase user authentication. In this music application music files are read using two procedures, The first approach is reading the songs from assests folder the second approach is reading the songs from the firebase. This application is mainly focused on reading the music files from the firebase database storage.
+In this project, an android music player application is developed. Several functionalilites of simple music player application is developed like play/stop music, Next song, Previous song, Seek bar,Volumebar. This application also has firebase user authentication. In this music application music files are read using two procedures, The first approach is reading the songs from assests folder the second approach is reading the songs from the firebase. This application mainly focuse on reading the music files from the firebase database storage.
 
 ![alt text](https://github.com/Kiranmai95/Music-player/blob/master/Images/Gitmusicpage.PNG)
 
@@ -13,7 +13,8 @@ Target audience are speciﬁc group of people uses the mobile applications. The 
  * Operating System: Android
  * Database:Firebase
  * Language: Kotlin, XML
- * Login: The user must create an account or register to login to the applications. Social network logins are not used in this application.  * Firebase Database: All the music ﬁles and login credentials are uploaded to the ﬁrebase database. 
+ * Login: The user must create an account or register to login to the applications. Social network logins are not used in this application. 
+ * Firebase Database: All the music ﬁles and login credentials are present in the ﬁrebase database. 
 
 ### Things User can perform on this application
  * Can create an account
